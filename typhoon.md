@@ -1,4 +1,4 @@
-Saygıdeğer PRISMACSI’nin hazırlamış olduğu “Hedef ben miyim Tayfun?” dan gelen typhoon vulnerable vm adlı makineyi bu yazımla beraber çözmüş olacağız. Makinenin linki https://www.prismacsi.com/typhoon-vulnerable-vm/ adresinde mevcuttur.
+PRISMACSI’nin hazırlamış olduğu “Hedef ben miyim Tayfun?” dan gelen typhoon vulnerable vm adlı makineyi bu yazımla beraber çözmüş olacağız. Makinenin linki https://www.prismacsi.com/typhoon-vulnerable-vm/ adresinde mevcuttur.
 
 İlk olarak makineyi virtualbox’ımıza kurduktan sonra hangi IP adresini aldığını öğrenmek için netdiscover aracından yararlanmaktayız. Net discoverin sonucunda aşağıdaki resimde de görüldüğü gibi 192.168.1.104 IP adresini aldığını buluyoruz. Bundan sonraki işlemleri bu IP adresi üzerinden yapacağız.
  
